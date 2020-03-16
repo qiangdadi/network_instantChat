@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/welcome">
+        <file>image/welcome_icon.jpg</file>
+    </qresource>
+    <qresource prefix="/new/person">
+        <file>image/person_icon.jpg</file>
+    </qresource>
+    <qresource prefix="/new/xiaoxi">
+        <file>image/xiaoxi_icon.jpg</file>
+    </qresource>
+    <qresource prefix="/new/icon">
+        <file>image/icon.jpg</file>
+    </qresource>
+    <qresource prefix="/new/head_icon">
+        <file>image/head_icon.jpg</file>
+    </qresource>
+</RCC>
